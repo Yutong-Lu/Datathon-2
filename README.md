@@ -14,9 +14,14 @@ Can we predict death events using characteristics of heart failure patients?
 * Model: KNN/logistic
 
 ### Data Processing 
-* Data cleaning, exploration
+* Data cleaning and exploration
 * Remove observations with missing values/unknowns
 
 ### Training and test data
 * Feature selection: VIF, clinical significance
 * Visualization
+
+### Modelling
+* Logistic regression model: non-weighted and weighted
+* KNN: choose optimal K using error rate
+* Compare the two/three models
