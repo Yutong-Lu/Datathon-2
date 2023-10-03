@@ -1,6 +1,6 @@
 # Datathon-2
 
-**See Datathon2-Final.ipynb for the final version of our codes!**
+**See Datathon2-Final.ipynb for the final version of our code!**
 
 ## Research questions
 
