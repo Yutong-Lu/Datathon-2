@@ -2,23 +2,19 @@
 
 ## Research questions
 
-1. Is there an association between average blood sugar and stroke?
-2. Can we use KNN/logistic regression machine learning model to predict stroke?
-3. K-means on Mortality Dataset for Cardiovascular Disease Complications
+Can we predict death events using characteristics of heart failure patients?
 
 ## Analysis Plan
 
 ### Features: 
-* main exposure: average blood sugar
-* Covariates: gender, age, hypertension, heart disease, work type, residence type, bmi, smoking status
-* Outcome: stroke
+* Covariates: age, sex, ejection fraction, anemia, hypertension, CK, serum creatinine, sodium
+* Outcome: death
 * Model: KNN/logistic
 
 ### Data Processing 
 * Data cleaning, exploration
 * Remove observations with missing values/unknowns
-* Create dummy variables for work_type, resident type, gender, smoking status
 
 ### Training and test data
-* Feature selection: heatmap, likelihood ratio tests
+* Feature selection: VIF, clinical significance
 * Visualization
