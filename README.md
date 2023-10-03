@@ -1,5 +1,7 @@
 # Datathon-2
 
+**See Datathon2-Final.ipynb for the final version of our codes!**
+
 ## Research questions
 
 Can we predict death events using characteristics of heart failure patients?
