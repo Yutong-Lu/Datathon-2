@@ -1,4 +1,4 @@
-# CHL5230 Datathon 2 Team 11
+# Predictive Modeling for Heart Failure Mortality: Logistic Regression and KNN Analysis
 ## Authors: Yutong Lu, Feifan Xiang, Man Xue
 
 **Datathon 2, CHL5230, Dalla Lana School of Public Health**
